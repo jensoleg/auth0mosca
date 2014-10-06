@@ -1,6 +1,6 @@
 {
   "name": "auth0mosca",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "An authentication/authorization module for mosca servers, using Auth0",
   "main": "lib/index.js",
   "repository": {
